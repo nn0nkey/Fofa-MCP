@@ -80,19 +80,10 @@ python fofa_mcp.py
 
 ## 📝 使用示例
 
-### FOFA 搜索
-```
-使用 FOFA 搜索 domain="baidu.com"
-在 FOFA 中查找 app="ATLASSIAN-JIRA"
-使用 FOFA 搜索 server="Apache"，限制 50 个结果
-```
+我想查询百度的10个ip
 
-### Shodan 搜索
-```
-使用 Shodan 搜索 ssl:"Uber Technologies, Inc."
-查找 Shodan 中端口 22 开放的服务器
-在 Shodan 中搜索 Apache 服务器，限制 100 个结果
-```
+<img width="1561" height="630" alt="image" src="https://github.com/user-attachments/assets/af32de0a-b2bf-44ac-9bc9-84729bea8e5f" />
+
 
 ### 工具参数
 
