@@ -1,0 +1,17 @@
+# Uncover MCP Server - Python版本
+# 作者: nn0nkey
+
+# MCP Python SDK
+mcp>=1.0.0
+
+# HTTP请求库
+requests>=2.31.0
+
+# 异步支持
+asyncio
+
+# 日志
+logging
+
+# 类型提示
+typing-extensions>=4.0.0

@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+        "uncover-mcp": {
+            "command": "python",
+            "args": ["fofa_mcp.py"],
+            "env": {
+                "SHODAN_API_KEY": "your_shodan_api_key_here",
+                "FOFA_EMAIL": "your_fofa_email_here",
+                "FOFA_KEY": "your_fofa_key_here"
+            }
+        }
+    }
+}
